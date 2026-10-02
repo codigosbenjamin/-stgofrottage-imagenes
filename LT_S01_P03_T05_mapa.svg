@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9e7e7;
+      }
+
+      .cls-2 {
+        fill: #e63c91;
+        font-family: GeistMono-Regular, 'Geist Mono';
+        font-size: 9.5px;
+      }
+
+      .cls-3 {
+        fill: #dbf996;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="247.32 94.09 237.92 119.94 310.75 133.18 406.35 146.96 406.87 137.23 247.32 94.09"/>
+    <polygon class="cls-1" points="236.22 126.55 235.49 139.34 239.63 193.18 246.33 209.63 378.62 170.04 405.97 163.22 406.35 152.94 236.22 126.55"/>
+    <polygon class="cls-1" points="248.86 215.32 256.33 229.44 283.09 262.31 368.65 221.84 378.02 223.47 380.74 196.71 377.61 177.02 248.86 215.32"/>
+    <polygon class="cls-1" points="285.97 267.58 369.52 228.09 375.87 229.25 369.4 310.38 303.08 342.73 300.44 319.91 285.97 267.58"/>
+    <polygon class="cls-1" points="304.02 349.08 368.39 317.64 367.24 366.4 392.43 397.94 332.76 446.81 308.32 420.38 305.29 413.57 304.02 349.08"/>
+    <polygon class="cls-1" points="374.01 342.15 373.49 364.67 396.96 393.5 422.23 373.9 405.23 342.73 374.01 342.15"/>
+    <polygon class="cls-1" points="424.64 371.92 405.44 337.69 374 337.04 374.91 310.2 379.79 256.06 484.54 255.36 493.69 248.26 507.66 224.51 525.73 235.28 550.27 264 424.64 371.92"/>
+    <polygon class="cls-1" points="514.4 180.75 512.88 210.74 510.55 218.68 530.04 230.93 554.67 260 594 227.55 646.75 196.04 641.5 174.45 514.4 180.75"/>
+    <polygon class="cls-3" points="246.86 234.65 237.09 237.01 164.54 407.06 158.27 428.45 155.25 457.19 162.38 479.88 193.81 536.38 209.91 530.22 250.75 510.02 313.95 462.05 293.64 425.1 292.77 345.81 288.88 318.69 274.07 268.57 246.86 234.65"/>
+    <polygon class="cls-1" points="591.86 159.24 592.52 171.53 640.51 169.33 639.25 163.17 634.29 159.76 591.86 159.24"/>
+    <polygon class="cls-1" points="585.31 159.24 585.98 171.53 515.32 174.45 515.89 159.24 585.31 159.24"/>
+    <polygon class="cls-1" points="380.53 176.5 383.52 196.08 380.85 224.66 383.3 225.12 381.4 250.2 482.7 248.9 490.69 241.65 504.34 217.52 506.6 210.01 508.77 158.75 435 161.11 380.53 176.5"/>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(265.2 94.18) rotate(15)"><tspan x="0" y="0">ISMAEL VALDÉS VERGARA</tspan></text>
+    <text class="cls-2" transform="translate(308.29 186.02) rotate(-16.7)"><tspan x="0" y="0">MERCED</tspan></text>
+    <text class="cls-2" transform="translate(309.63 244.6) rotate(-25)"><tspan x="0" y="0">ROSAL</tspan></text>
+    <text class="cls-2" transform="translate(420.46 268.62) rotate(-.5)"><tspan x="0" y="0">VILLAVICENCIO</tspan></text>
+    <text class="cls-2" transform="translate(200.08 403.02)"><tspan x="0" y="0">CERRO SANTA</tspan><tspan x="17.1" y="11">LUCÍA</tspan></text>
+    <text class="cls-2" transform="translate(163.65 389.49) rotate(-66.5)"><tspan x="0" y="0">STA. LUCÍA</tspan></text>
+    <text class="cls-2" transform="translate(533.53 155.25)"><tspan x="0" y="0">MERCED</tspan></text>
+    <text class="cls-2" transform="translate(370.49 435.82) rotate(-39.6)"><tspan x="0" y="0">AV. LIBERTADOR BERNARDO O’HIGGINS</tspan></text>
+    <text class="cls-2" transform="translate(322.07 359.97) rotate(90)"><tspan x="0" y="0">VICTORIA</tspan><tspan x="-8.55" y="11">SUBERCASEUX</tspan></text>
+    <text class="cls-2" transform="translate(397.59 247.26) rotate(95)"><tspan x="0" y="0">JOSÉ VICTORINO</tspan><tspan x="14.25" y="11">LASTARRIA</tspan></text>
+    <text class="cls-2" transform="translate(444.65 314.08)"><tspan x="0" y="0">GAM</tspan></text>
+  </g>
+  <circle cx="494.98" cy="231.63" r="3.54"/>
+</svg>
