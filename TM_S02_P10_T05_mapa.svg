@@ -1,102 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 792 612">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
   <defs>
     <style>
-      .cls-1 {
-        fill: #e9e7e7;
+      .st0 {
+        fill: #f08cbe;
       }
 
-      .cls-2 {
-        font-size: 7.6px;
+      .st1, .st2 {
+        isolation: isolate;
       }
 
-      .cls-2, .cls-3 {
-        fill: #e63c91;
+      .st2 {
         font-family: GeistMono-Regular, 'Geist Mono';
-      }
-
-      .cls-3 {
         font-size: 7.6px;
-      }
-
-      .cls-4 {
-        fill: #dbf996;
       }
     </style>
   </defs>
-  <g id="Capa_1" data-name="Capa 1">
+  <g id="Capa_11" data-name="Capa_1">
     <g>
-      <polygon class="cls-4" points="474.72 460.5 482.75 460.5 494.68 464.51 511.22 493.27 480.56 505.22 474.72 460.5"/>
-      <polygon class="cls-1" points="468.5 460.5 474.72 506.72 424.28 520.71 416.15 465.65 468.5 460.5"/>
-      <polygon class="cls-1" points="467.25 398.48 476.17 397.51 489.03 398.02 482.49 432.71 488.47 451.66 484.07 456.74 474.25 456.74 467.25 398.48"/>
-      <polygon class="cls-1" points="490.28 455.12 488.03 457.96 492.97 460.2 490.28 455.12"/>
-      <polygon class="cls-1" points="461.87 358.5 466.12 394.76 476.24 393.88 490.55 394.37 504.41 362.99 461.87 358.5"/>
-      <polygon class="cls-1" points="518.57 329.58 505.93 358.91 461.01 354.02 458.95 333.6 503.18 329.58 518.57 329.58"/>
-      <polygon class="cls-1" points="445.48 208.62 503.59 201.3 507.31 261.52 451.68 267.46 445.48 208.62"/>
-      <polygon class="cls-1" points="506.74 200.86 510.09 261.18 544.12 257.93 544.94 238.06 543.19 195.9 506.74 200.86"/>
-      <polygon class="cls-1" points="391.76 279.82 445.48 273.74 451.93 330.65 398.71 334.98 391.76 279.82"/>
-      <polygon class="cls-1" points="399.99 339.25 452.26 334.98 459.48 396 408.48 401.42 399.99 339.25"/>
-      <polygon class="cls-1" points="458.19 329.85 504.41 325.37 520.92 325.37 543.81 269.73 544.25 263.23 451.93 272.6 458.19 329.85"/>
-      <polygon class="cls-1" points="409.16 405.72 460.42 400 467.85 456.74 416.15 461.73 409.16 405.72"/>
-      <polygon class="cls-1" points="503.21 159.36 506.54 196.45 542.65 191.95 534.06 181.74 503.21 159.36"/>
-      <polygon class="cls-1" points="478.52 141.66 437.81 146.99 444.52 204.08 503.21 196.84 499.49 156.87 478.52 141.66"/>
-      <polygon class="cls-1" points="365 71.48 367.46 92.42 394.09 94.62 430.03 102.89 383.1 77.29 365 71.48"/>
-      <polygon class="cls-1" points="550.46 167.58 544.04 187.03 536.98 178.61 502.36 152.98 501.45 140.67 550.46 167.58"/>
-      <polygon class="cls-1" points="205.64 301.38 215.99 300.26 225.05 356.11 209.78 357.7 203.26 306.31 205.64 301.38"/>
-      <polygon class="cls-1" points="210.29 359.88 225.71 358.26 236.04 418.16 217.8 420.22 210.29 359.88"/>
-      <polygon class="cls-1" points="218.25 424.25 237.11 422.12 246.56 479.55 225.02 481.43 218.25 424.25"/>
-      <polygon class="cls-1" points="225.71 485.61 247.34 483.62 262.16 565.43 235.77 573.15 225.71 485.61"/>
-      <polygon class="cls-1" points="218.24 300.1 227.31 355.7 272.05 350.75 264.57 294.59 218.24 300.1"/>
-      <polygon class="cls-1" points="227.68 358.03 272.57 352.9 280.67 412.92 238.16 417.8 227.68 358.03"/>
-      <polygon class="cls-1" points="431.34 148.24 437.81 205.23 382.91 211.65 375.32 155.04 431.34 148.24"/>
-      <polygon class="cls-1" points="259.67 451.01 284.38 448.35 287.11 475.79 262.57 477.99 259.67 451.01"/>
-      <polygon class="cls-1" points="239.05 421.89 253.57 420.22 260.22 478.22 248.75 479.33 239.05 421.89"/>
-      <polygon class="cls-1" points="256.17 419.74 280.94 416.99 283.85 445.67 259.34 448.38 256.17 419.74"/>
-      <polygon class="cls-1" points="262.98 481.96 288.02 479.57 290.58 502.36 265.12 504.31 262.98 481.96"/>
-      <polygon class="cls-1" points="290.33 479.33 342.28 474.07 351.41 540.33 298.88 554.34 290.33 479.33"/>
-      <polygon class="cls-1" points="249.6 483.38 260.61 482.3 262.98 506.59 290.92 504.49 296.59 555.36 263.92 564.84 249.6 483.38"/>
-      <polygon class="cls-1" points="283.37 416.65 289.32 475.41 341.95 470.08 338.14 443.32 321.53 443.7 317.98 413.9 283.37 416.65"/>
-      <polygon class="cls-1" points="320.8 413.68 323.95 441.35 337.66 441.01 335.91 412.53 320.8 413.68"/>
-      <polygon class="cls-1" points="266.66 294.59 319.86 288.64 326.91 344.5 274.08 350.4 266.66 294.59"/>
-      <polygon class="cls-1" points="274.56 352.67 327.23 346.71 335.44 408.4 282.72 412.68 274.56 352.67"/>
-      <polygon class="cls-4" points="203.2 296.9 196.27 241.25 255.81 233.53 263.09 289.71 203.2 296.9"/>
-      <polygon class="cls-1" points="257.98 233.16 261.32 259.23 274.84 258.17 278.09 246.02 276.14 230.47 257.98 233.16"/>
-      <polygon class="cls-1" points="261.58 261.46 275.45 260.34 281.81 268.44 284.39 287.42 265.27 289.49 261.58 261.46"/>
-      <polygon class="cls-1" points="278.72 230.14 312.37 225.8 319.4 283.83 286.43 287.28 283.86 267.37 277.44 259.23 280.69 246.43 278.72 230.14"/>
-      <polygon class="cls-1" points="368.48 97.24 375.32 150.41 430.9 143.81 427.87 117.2 429.4 107.05 393.13 99.05 368.48 97.24"/>
-      <polygon class="cls-1" points="383.56 215.96 438.33 209.53 444.87 268.92 390.99 274.94 383.56 215.96"/>
-      <polygon class="cls-1" points="354 472.27 382.15 469.69 394.26 528.69 362.76 537.1 354 472.27"/>
-      <polygon class="cls-1" points="347.36 411.52 349.08 441.35 353.31 468.97 381.77 466.45 374.16 409.14 347.36 411.52"/>
-      <polygon class="cls-1" points="384.15 469.34 404.51 467.41 413 523 396.15 528.02 384.15 469.34"/>
-      <polygon class="cls-1" points="375.9 408.96 383.57 466.25 404.14 464.34 396.95 407 375.9 408.96"/>
-      <polygon class="cls-1" points="436.12 113.05 435.74 117.78 437.81 143.13 473.44 138.41 436.12 113.05"/>
-      <polygon class="cls-4" points="350.53 38.85 364.45 67.51 383.99 73.6 432.84 99.97 445.41 87.18 451.61 67.98 350.53 38.85"/>
-      <polygon class="cls-4" points="551.93 163.39 568.56 107.29 568.56 100.55 456.66 69.25 450.32 89.12 437.27 102.38 551.93 163.39"/>
-      <polygon class="cls-1" points="497.61 150.02 496.61 138.6 436.91 106.3 436.5 108.69 497.61 150.02"/>
-      <polygon class="cls-1" points="339.76 345.42 387.84 340 396.24 402.95 347.36 407.34 339.76 345.42"/>
-      <polygon class="cls-1" points="324.77 223.74 371.61 218.18 379.62 277.26 331.48 282.48 324.77 223.74"/>
-      <polygon class="cls-1" points="332.36 287.28 380.23 281.91 387.31 337.27 339.38 342.88 332.36 287.28"/>
-      <text class="cls-2" transform="translate(561.23 168.59) rotate(-73.04)"><tspan x="0" y="0">MUSEO NACIONAL</tspan><tspan x="-2.28" y="8.8">DE BELLAS ARTES</tspan></text>
-      <text class="cls-2" transform="translate(218.37 263.81) rotate(-6.64)"><tspan x="0" y="0">PLAZA</tspan><tspan x="-6.84" y="8.8">DE ARMAS</tspan></text>
-      <text class="cls-2" transform="translate(466.47 522.54) rotate(-20.97)"><tspan x="0" y="0">PLAZA BENJAMÍN</tspan><tspan x="-2.28" y="8.8">VICUÑA MACKENNA</tspan></text>
-      <text class="cls-2" transform="translate(533.78 320.97) rotate(-67.4)"><tspan x="0" y="0">STA. LUCÍA</tspan></text>
-      <text class="cls-2" transform="translate(469.21 108.71) rotate(26.13)"><tspan x="0" y="0">PARQUE FORESTAL</tspan></text>
-      <text class="cls-3" transform="translate(296.89 568.91) rotate(-15.51)"><tspan x="0" y="0">AV. LIBERTADOR BERNARDO O’HIGGINS</tspan></text>
-      <text class="cls-3" transform="translate(345.23 351.41) rotate(83.32)"><tspan x="0" y="0">SAN ANTONIO</tspan></text>
-      <text class="cls-3" transform="translate(457.41 277.98) rotate(84.19)"><tspan x="0" y="0">MIRAFLORES</tspan></text>
-      <text class="cls-3" transform="translate(399.82 228.05) rotate(83.32)"><tspan x="0" y="0">ENRIQUE</tspan><tspan x="-2.28" y="8.8">MAC IVER</tspan></text>
-      <text class="cls-3" transform="translate(208.74 422.91) rotate(83.32)"><tspan x="0" y="0">PASEO AHUMANDA</tspan></text>
-      <text class="cls-3" transform="translate(301.24 471.07) rotate(-5.81)"><tspan x="0" y="0">MONEDA</tspan></text>
-      <text class="cls-3" transform="translate(412.5 396.77) rotate(-5.81)"><tspan x="0" y="0">AGUSTINAS</tspan></text>
-      <text class="cls-3" transform="translate(465.32 262.08) rotate(-5.81)"><tspan x="0" y="0">MERCED</tspan></text>
-      <text class="cls-3" transform="translate(282.02 311.35) rotate(83.32)"><tspan x="0" y="0">PASEO</tspan><tspan x="-2.28" y="8.8">ESTADO</tspan></text>
-      <text class="cls-3" transform="translate(329.81 219.19) rotate(-6.68)"><tspan x="0" y="0">MONJITAS</tspan></text>
-      <text class="cls-3" transform="translate(390.26 135.34) rotate(-6.68)"><tspan x="0" y="0">SANTO</tspan><tspan x="-4.56" y="8.8">DOMINGO</tspan></text>
-      <text class="cls-3" transform="translate(359.76 418.54) rotate(-5.31)"><tspan x="0" y="0">TEATRO</tspan><tspan x="-6.84" y="8.8">MUNICIPAL</tspan></text>
-      <text class="cls-3" transform="translate(404.62 329.77) rotate(-4.92)"><tspan x="0" y="0">HUÉRFANOS</tspan></text>
+      <polygon class="st0" points="474.72 460.5 482.75 460.5 494.68 464.51 511.22 493.27 480.56 505.22 474.72 460.5"/>
+      <polygon class="st0" points="468.5 460.5 474.72 506.72 424.28 520.71 416.15 465.65 468.5 460.5"/>
+      <polygon class="st0" points="467.25 398.48 476.17 397.51 489.03 398.02 482.49 432.71 488.47 451.66 484.07 456.74 474.25 456.74 467.25 398.48"/>
+      <polygon class="st0" points="490.28 455.12 488.03 457.96 492.97 460.2 490.28 455.12"/>
+      <polygon class="st0" points="461.87 358.5 466.12 394.76 476.24 393.88 490.55 394.37 504.41 362.99 461.87 358.5"/>
+      <polygon class="st0" points="518.57 329.58 505.93 358.91 461.01 354.02 458.95 333.6 503.18 329.58 518.57 329.58"/>
+      <polygon class="st0" points="445.48 208.62 503.59 201.3 507.31 261.52 451.68 267.46 445.48 208.62"/>
+      <polygon class="st0" points="506.74 200.86 510.09 261.18 544.12 257.93 544.94 238.06 543.19 195.9 506.74 200.86"/>
+      <polygon class="st0" points="391.76 279.82 445.48 273.74 451.93 330.65 398.71 334.98 391.76 279.82"/>
+      <polygon class="st0" points="399.99 339.25 452.26 334.98 459.48 396 408.48 401.42 399.99 339.25"/>
+      <polygon class="st0" points="458.19 329.85 504.41 325.37 520.92 325.37 543.81 269.73 544.25 263.23 451.93 272.6 458.19 329.85"/>
+      <polygon class="st0" points="409.16 405.72 460.42 400 467.85 456.74 416.15 461.73 409.16 405.72"/>
+      <polygon class="st0" points="503.21 159.36 506.54 196.45 542.65 191.95 534.06 181.74 503.21 159.36"/>
+      <polygon class="st0" points="478.52 141.66 437.81 146.99 444.52 204.08 503.21 196.84 499.49 156.87 478.52 141.66"/>
+      <polygon class="st0" points="365 71.48 367.46 92.42 394.09 94.62 430.03 102.89 383.1 77.29 365 71.48"/>
+      <polygon class="st0" points="550.46 167.58 544.04 187.03 536.98 178.61 502.36 152.98 501.45 140.67 550.46 167.58"/>
+      <polygon class="st0" points="205.64 301.38 215.99 300.26 225.05 356.11 209.78 357.7 203.26 306.31 205.64 301.38"/>
+      <polygon class="st0" points="210.29 359.88 225.71 358.26 236.04 418.16 217.8 420.22 210.29 359.88"/>
+      <polygon class="st0" points="218.25 424.25 237.11 422.12 246.56 479.55 225.02 481.43 218.25 424.25"/>
+      <polygon class="st0" points="225.71 485.61 247.34 483.62 262.16 565.43 235.77 573.15 225.71 485.61"/>
+      <polygon class="st0" points="218.24 300.1 227.31 355.7 272.05 350.75 264.57 294.59 218.24 300.1"/>
+      <polygon class="st0" points="227.68 358.03 272.57 352.9 280.67 412.92 238.16 417.8 227.68 358.03"/>
+      <polygon class="st0" points="431.34 148.24 437.81 205.23 382.91 211.65 375.32 155.04 431.34 148.24"/>
+      <polygon class="st0" points="259.67 451.01 284.38 448.35 287.11 475.79 262.57 477.99 259.67 451.01"/>
+      <polygon class="st0" points="239.05 421.89 253.57 420.22 260.22 478.22 248.75 479.33 239.05 421.89"/>
+      <polygon class="st0" points="256.17 419.74 280.94 416.99 283.85 445.67 259.34 448.38 256.17 419.74"/>
+      <polygon class="st0" points="262.98 481.96 288.02 479.57 290.58 502.36 265.12 504.31 262.98 481.96"/>
+      <polygon class="st0" points="290.33 479.33 342.28 474.07 351.41 540.33 298.88 554.34 290.33 479.33"/>
+      <polygon class="st0" points="249.6 483.38 260.61 482.3 262.98 506.59 290.92 504.49 296.59 555.36 263.92 564.84 249.6 483.38"/>
+      <polygon class="st0" points="283.37 416.65 289.32 475.41 341.95 470.08 338.14 443.32 321.53 443.7 317.98 413.9 283.37 416.65"/>
+      <polygon class="st0" points="320.8 413.68 323.95 441.35 337.66 441.01 335.91 412.53 320.8 413.68"/>
+      <polygon class="st0" points="266.66 294.59 319.86 288.64 326.91 344.5 274.08 350.4 266.66 294.59"/>
+      <polygon class="st0" points="274.56 352.67 327.23 346.71 335.44 408.4 282.72 412.68 274.56 352.67"/>
+      <polygon class="st0" points="203.2 296.9 196.27 241.25 255.81 233.53 263.09 289.71 203.2 296.9"/>
+      <polygon class="st0" points="257.98 233.16 261.32 259.23 274.84 258.17 278.09 246.02 276.14 230.47 257.98 233.16"/>
+      <polygon class="st0" points="261.58 261.46 275.45 260.34 281.81 268.44 284.39 287.42 265.27 289.49 261.58 261.46"/>
+      <polygon class="st0" points="278.72 230.14 312.37 225.8 319.4 283.83 286.43 287.28 283.86 267.37 277.44 259.23 280.69 246.43 278.72 230.14"/>
+      <polygon class="st0" points="368.48 97.24 375.32 150.41 430.9 143.81 427.87 117.2 429.4 107.05 393.13 99.05 368.48 97.24"/>
+      <polygon class="st0" points="383.56 215.96 438.33 209.53 444.87 268.92 390.99 274.94 383.56 215.96"/>
+      <polygon class="st0" points="354 472.27 382.15 469.69 394.26 528.69 362.76 537.1 354 472.27"/>
+      <polygon class="st0" points="347.36 411.52 349.08 441.35 353.31 468.97 381.77 466.45 374.16 409.14 347.36 411.52"/>
+      <polygon class="st0" points="384.15 469.34 404.51 467.41 413 523 396.15 528.02 384.15 469.34"/>
+      <polygon class="st0" points="375.9 408.96 383.57 466.25 404.14 464.34 396.95 407 375.9 408.96"/>
+      <polygon class="st0" points="436.12 113.05 435.74 117.78 437.81 143.13 473.44 138.41 436.12 113.05"/>
+      <polygon class="st0" points="350.53 38.85 364.45 67.51 383.99 73.6 432.84 99.97 445.41 87.18 451.61 67.98 350.53 38.85"/>
+      <polygon class="st0" points="551.93 163.39 568.56 107.29 568.56 100.55 456.66 69.25 450.32 89.12 437.27 102.38 551.93 163.39"/>
+      <polygon class="st0" points="497.61 150.02 496.61 138.6 436.91 106.3 436.5 108.69 497.61 150.02"/>
+      <polygon class="st0" points="339.76 345.42 387.84 340 396.24 402.95 347.36 407.34 339.76 345.42"/>
+      <polygon class="st0" points="324.77 223.74 371.61 218.18 379.62 277.26 331.48 282.48 324.77 223.74"/>
+      <polygon class="st0" points="332.36 287.28 380.23 281.91 387.31 337.27 339.38 342.88 332.36 287.28"/>
+      <g class="st1">
+        <text class="st2" transform="translate(561.23 168.59) rotate(-73.04)"><tspan x="0" y="0">MUSEO NACIONAL</tspan></text>
+        <text class="st2" transform="translate(568.98 173.34) rotate(-73.04)"><tspan x="0" y="0">DE BELLAS ARTES</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(218.37 263.81) rotate(-6.64)"><tspan x="0" y="0">PLAZA</tspan></text>
+        <text class="st2" transform="translate(212.59 273.34) rotate(-6.64)"><tspan x="0" y="0">DE ARMAS</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(466.47 522.54) rotate(-20.97)"><tspan x="0" y="0">PLAZA BENJAMÍN</tspan></text>
+        <text class="st2" transform="translate(467.49 531.57) rotate(-20.97)"><tspan x="0" y="0">VICUÑA MACKENNA</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(533.78 320.97) rotate(-67.4)"><tspan x="0" y="0">STA. LUCÍA</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(469.21 108.71) rotate(26.13)"><tspan x="0" y="0">PARQUE FORESTAL</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(296.89 568.91) rotate(-15.51)"><tspan x="0" y="0">AV. LIBERTADOR BERNARDO O’HIGGINS</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(345.23 351.41) rotate(83.32)"><tspan x="0" y="0">SAN ANTONIO</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(457.41 277.98) rotate(84.19)"><tspan x="0" y="0">MIRAFLORES</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(399.82 228.05) rotate(83.32)"><tspan x="0" y="0">ENRIQUE</tspan></text>
+        <text class="st2" transform="translate(390.81 226.81) rotate(83.32)"><tspan x="0" y="0">MAC IVER</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(208.74 422.91) rotate(83.32)"><tspan x="0" y="0">PASEO AHUMANDA</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(301.24 471.07) rotate(-5.81)"><tspan x="0" y="0">MONEDA</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(412.5 396.77) rotate(-5.81)"><tspan x="0" y="0">AGUSTINAS</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(465.32 262.08) rotate(-5.81)"><tspan x="0" y="0">MERCED</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(282.02 311.35) rotate(83.32)"><tspan x="0" y="0">PASEO</tspan></text>
+        <text class="st2" transform="translate(273.01 310.11) rotate(83.32)"><tspan x="0" y="0">ESTADO</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(329.81 219.19) rotate(-6.68)"><tspan x="0" y="0">MONJITAS</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(390.26 135.34) rotate(-6.68)"><tspan x="0" y="0">SANTO</tspan></text>
+        <text class="st2" transform="translate(386.75 144.61) rotate(-6.68)"><tspan x="0" y="0">DOMINGO</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(359.76 418.54) rotate(-5.31)"><tspan x="0" y="0">TEATRO</tspan></text>
+        <text class="st2" transform="translate(353.76 427.94) rotate(-5.31)"><tspan x="0" y="0">MUNICIPAL</tspan></text>
+      </g>
+      <g class="st1">
+        <text class="st2" transform="translate(404.62 329.77) rotate(-4.92)"><tspan x="0" y="0">HUÉRFANOS</tspan></text>
+      </g>
     </g>
   </g>
-  <g id="Capa_2" data-name="Capa 2">
+  <g id="Capa_2">
     <circle cx="319.4" cy="416.23" r="3.54"/>
   </g>
 </svg>
